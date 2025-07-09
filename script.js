@@ -51,7 +51,7 @@ const dictionary = {
   x: 0,
   y: 0,
   z: 0,
-  "": 0,
+  " ": 0,
 };
 
 const numberToLetter = ["A", "B", "E", "F", "I", "J", "O", "P", "U", "V"];
